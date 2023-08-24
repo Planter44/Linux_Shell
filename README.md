@@ -1,8 +1,3 @@
-## Simple_shell
-
-This is ALX C programming project, that combines many topics taught in ALX from May to August 2023.
-It is a colaboration project that we came up with within a span of 10 days.
-
 ## DESCRIPTION
 
 Shell is Linux command line interpretor that manages interaction between user and the Operating System by prompting the user for
@@ -25,11 +20,12 @@ The involved TOOLS include:
 
 ## Compilation
 
-The following command line runs the compiles the shell and provides en executable  ./hsh file;
+The following command line runs the compiles the shell and provides en executable  ./hsh    file;
 
-$ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+$ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh.
+
+After compilation, run     ./hsh   to execute.
 
 ## AUTHORS
 
-Ian Enyakai.
-Jonson Muhabi.
+Jonson Mbugua Muhabi.
