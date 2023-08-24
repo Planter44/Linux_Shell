@@ -26,6 +26,6 @@ $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh.
 
 After compilation, run     ./hsh   to execute.
 
-## AUTHORS
+## AUTHOR
 
 Jonson Mbugua Muhabi.
